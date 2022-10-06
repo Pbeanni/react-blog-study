@@ -1,0 +1,14 @@
+
+.sidebaranimation{
+
+    animation: bounce 350ms;
+}
+
+@keyframes bounce {
+    0%{
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+};
