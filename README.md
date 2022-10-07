@@ -3,3 +3,6 @@ Um frontend simples baseado em react, esse projeto foi realizado no começo dos 
 
 # o que eu aprendi com esse projeto
 nesse primeiro projeto eu coloquei em pratica meus conhecimentos em js e me desafiei utilizando react pela primeira vez, o workflow foi bem tranquilo e eu aprendi bastante tailwind css e reconheci o valor dessa biblioteca e o quanto ela pode acelerar o desenvolvimento de CSS
+
+# para iniciar o projeto
+basta usar o comando "npm install" para instalar as dependencias e iniciar o live-server com "npm start".
